@@ -16,14 +16,6 @@ Atualmente desenvolvo projetos práticos para consolidar conhecimentos em SQL, a
 
 ---
 
-## Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [SQL Server DBA Lab](https://github.com/Mauricio2511/sqlserver-dba-lab) | Laboratório prático de DBA com SQL Server 2019, Windows Server 2019, Active Directory e configuração de ambiente corporativo. | SQL Server, Windows Server, Active Directory |
-| [Sistema de Atendimento SQL](https://github.com/Mauricio2511/projeto-sistema-atendimento-sql) | Projeto prático simulando um sistema de atendimento ao cliente, com modelagem, inserts e consultas analíticas. | SQL, Modelagem de Dados |
-| [Estudos SQL](https://github.com/Mauricio2511/estudos-sql) | Repositório com estudos e exercícios de SQL e banco de dados. | SQL, Banco de Dados |
-
 ### 🤖 Tecnologias e Ferramentas
 
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
@@ -33,4 +25,14 @@ Atualmente desenvolvo projetos práticos para consolidar conhecimentos em SQL, a
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-003B57?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Oracle VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+---
+
+## Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [SQL Server DBA Lab](https://github.com/Mauricio2511/sqlserver-dba-lab) | Laboratório prático de DBA com SQL Server 2019, Windows Server 2019, Active Directory e configuração de ambiente corporativo. | SQL Server, Windows Server, Active Directory |
+| [Sistema de Atendimento SQL](https://github.com/Mauricio2511/projeto-sistema-atendimento-sql) | Projeto prático simulando um sistema de atendimento ao cliente, com modelagem, inserts e consultas analíticas. | SQL, Modelagem de Dados |
+| [Estudos SQL](https://github.com/Mauricio2511/estudos-sql) | Repositório com estudos e exercícios de SQL e banco de dados. | SQL, Banco de Dados |
 
