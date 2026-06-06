@@ -1,8 +1,8 @@
 # Olá! Eu sou o Mauricio 👨‍💻
 
-🎓 Estudante de Tecnologia em Banco de Dados, com foco em Administração de Banco de Dados (DBA), SQL Server, modelagem de dados e Business Intelligence.
+🎓 Estudante de Tecnologia em Banco de Dados, com foco em Administração de Banco de Dados (DBA), SQL Server, modelagem de dados e infraestrutura de banco de dados.
 
-Atualmente estou desenvolvendo projetos práticos para consolidar conhecimentos em SQL, infraestrutura de banco de dados, administração de ambientes SQL Server e análise de dados.
+Atualmente desenvolvo projetos práticos para consolidar conhecimentos em SQL, administração de ambientes SQL Server, modelagem de dados e práticas de DBA.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/mauricio-silva-94640620b" target="_blank">
